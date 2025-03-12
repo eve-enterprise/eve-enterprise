@@ -1,4 +1,4 @@
-![EVE Logo](https://raw.githubusercontent.com/eve-enterprise/eve-enterprise/main/logo_eve.svg)
+<img src="https://raw.githubusercontent.com/eve-enterprise/eve-enterprise/main/logo_eve.svg" width="200px">
 # .eve – Your Extension of Virtual Exploration
 
 ## 🏴‍☠️ L'histoire de Team EVE
