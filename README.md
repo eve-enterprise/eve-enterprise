@@ -1,5 +1,5 @@
-![eve logo](https://raw.githubusercontent.com/eve-enterprise/eve-enterprise/main/logo_eve.svg)
-# .eve – Your Extension of Virtual Exploration
+!
+# [eve logo](https://raw.githubusercontent.com/eve-enterprise/eve-enterprise/main/logo_eve.svg) – Your Extension of Virtual Exploration
 
 ## 🏴‍☠️ L'histoire de Team EVE
 
